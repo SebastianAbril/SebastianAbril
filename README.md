@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastianabril" alt="sebastianabril" /></a> </p>
 
-- 🌱 I’m currently working with **React and SpringBoot**
+- 🌱 I’m currently working with **React** and **SpringBoot**
 
-- 💬 Ask me about **JavaScript and Java**
+- 💬 Ask me about **JavaScript** and **Java**
 
 - 📫 How to reach me **sebastianabril6@gmail.com**
 
