@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastianabril" alt="sebastianabril" /></a> </p>
 
-- 🌱 I’m currently working with **Java**, **SpringBoot**, **NodeJS**, **NestJS**
+- 🌱 I’m currently working with **Java**, **SpringBoot**, **NodeJS**, **NestJS**, -**Docker**, **AWS**
 
 - 📫 How to reach me **sebastianabril6@gmail.com**
 
